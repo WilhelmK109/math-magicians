@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: cornsilk;
 }
 
 .App {
@@ -7,6 +7,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-top: 10px;
 }
 
 .calc-wrapper {
@@ -14,7 +15,7 @@ body {
   width: 600px;
   height: 600px;
   border-radius: 16px;
-  margin: 20px auto;
+  margin: 10px auto;
 }
 
 .row {
