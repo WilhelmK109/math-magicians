@@ -1,5 +1,5 @@
 import { Outlet } from 'react-router-dom';
-import NavItem from 'NavItem';
+import NavItem from './NavItem';
 import './NavBar.css';
 
 export default function NavBar() {

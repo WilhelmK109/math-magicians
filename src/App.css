@@ -46,3 +46,28 @@ body {
 .grid .button-wrapper:nth-child(3) {
   background-color: rgb(242, 158, 1);
 }
+
+.home {
+  width: 80%;
+  height: 100vh;
+  padding-top: 3%;
+  font-size: 1.2rem;
+}
+
+.calc-page {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  height: 100vh;
+  padding-top: 2%;
+}
+
+.calc-page .calc-wrapper {
+  width: 70%;
+}
+
+.quote {
+  width: 80%;
+  padding-top: 5%;
+  font-size: 2rem;
+}
