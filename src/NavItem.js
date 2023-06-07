@@ -4,8 +4,8 @@ export default function NavItem() {
   return (
     <ul>
       <li><NavLink to="/">Home</NavLink></li>
-      <li><NavLink to="/calculator">Calculator</NavLink></li>
-      <li><NavLink to="/quote">Quote</NavLink></li>
+      <li><NavLink to="calculator">Calculator</NavLink></li>
+      <li><NavLink to="quote">Quote</NavLink></li>
     </ul>
   );
 }
