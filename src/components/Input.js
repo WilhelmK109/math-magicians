@@ -9,7 +9,7 @@ function Input({ result }) {
 }
 
 Input.propTypes = {
-  result: PropTypes.string.isRequired,
+  result: PropTypes.oneOfType([PropTypes.number, PropTypes.string]).isRequired,
 };
 
 export default Input;
