@@ -49,7 +49,7 @@ it('snapshot test for NavItem', () => {
 
 it('snapshot test for Button', () => {
   const component = renderer.create(
-    <Button symbol="+" onClick={() => {}} />
+    <Button symbol="+" onClick={() => {}} />,
   );
   const tree = component.toJSON();
   expect(tree).toMatchSnapshot();
@@ -57,7 +57,7 @@ it('snapshot test for Button', () => {
 
 it('snapshot test for Input', () => {
   const component = renderer.create(
-    <Input result="Test Result" />
+    <Input result="Test Result" />,
   );
   const tree = component.toJSON();
   expect(tree).toMatchSnapshot();
