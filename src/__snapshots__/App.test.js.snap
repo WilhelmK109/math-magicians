@@ -1,0 +1,337 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test for Button 1`] = `
+<div
+  className="button-wrapper"
+  onClick={[Function]}
+  onKeyDown={[Function]}
+  role="button"
+  tabIndex={0}
+>
+  +
+</div>
+`;
+
+exports[`snapshot test for Calculator 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="calc-wrapper"
+  >
+    <div
+      className="calc-display"
+    >
+      <span
+        className="display-input"
+      >
+        0
+      </span>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        AC
+      </div>
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        +/-
+      </div>
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        %
+      </div>
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        ÷
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        7
+      </div>
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        8
+      </div>
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        9
+      </div>
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        x
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        4
+      </div>
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        5
+      </div>
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        6
+      </div>
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        -
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        1
+      </div>
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        2
+      </div>
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        3
+      </div>
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        +
+      </div>
+    </div>
+    <div
+      className="row grid"
+    >
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        0
+      </div>
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        .
+      </div>
+      <div
+        className="button-wrapper"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        =
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`snapshot test for Home 1`] = `
+<div
+  className="home"
+>
+  <h2>
+    Welcome to our page!
+  </h2>
+  <p>
+     
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor expedita vitae officiis voluptatibus, voluptas libero doloribus incidunt numquam facere accusantium aliquid eligendi eum adipisci totam rerum, quis fugit quaerat vero enim exercitationem minus in dolores. Officia nobis doloribus voluptatem sit qui, recusandae iusto repellat molestias ullam corporis eos quod dignissimos. Dolor expedita vitae officiis voluptatibus, voluptas libero doloribus incidunt numquam facere accusantium aliquid eligendi eum adipisci totam rerum.
+  </p>
+  <p>
+     
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor expedita vitae officiis voluptatibus, voluptas libero doloribus incidunt numquam facere accusantium aliquid eligendi eum adipisci totam rerum, quis fugit quaerat vero enim exercitationem minus in dolores. Officia nobis doloribus voluptatem sit qui, recusandae iusto repellat molestias ullam corporis eos quod dignissimos. Dolor expedita vitae officiis voluptatibus, voluptas libero doloribus incidunt numquam facere accusantium aliquid eligendi eum adipisci totam rerum.
+  </p>
+</div>
+`;
+
+exports[`snapshot test for Input 1`] = `
+<span
+  className="display-input"
+>
+  Test Result
+</span>
+`;
+
+exports[`snapshot test for NavBar 1`] = `
+<nav
+  className="nav-bar"
+>
+  <h1>
+    Math Magicians
+  </h1>
+  <ul
+    className="nav-items"
+  >
+    <li>
+      <a
+        aria-current="page"
+        className="active"
+        href="/"
+        onClick={[Function]}
+      >
+        Home
+      </a>
+    </li>
+    <li>
+      <a
+        className=""
+        href="/calculator"
+        onClick={[Function]}
+      >
+        Calculator
+      </a>
+    </li>
+    <li>
+      <a
+        className=""
+        href="/quote"
+        onClick={[Function]}
+      >
+        Quote
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
+
+exports[`snapshot test for NavItem 1`] = `
+<ul
+  className="nav-items"
+>
+  <li>
+    <a
+      aria-current="page"
+      className="active"
+      href="/"
+      onClick={[Function]}
+    >
+      Home
+    </a>
+  </li>
+  <li>
+    <a
+      className=""
+      href="/calculator"
+      onClick={[Function]}
+    >
+      Calculator
+    </a>
+  </li>
+  <li>
+    <a
+      className=""
+      href="/quote"
+      onClick={[Function]}
+    >
+      Quote
+    </a>
+  </li>
+</ul>
+`;
+
+exports[`snapshot test for Quote 1`] = `
+<div
+  className="display-quote"
+>
+  <div>
+    Loading...
+  </div>
+</div>
+`;
