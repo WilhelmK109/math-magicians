@@ -95,9 +95,7 @@ Clone this repository to your desired folder by running the below command in you
 
 ### Install
 
-Install this project with:
-
-- This project does not require installation.
+Install this project with: npm install
 
 ### Usage
 
@@ -158,7 +156,7 @@ If you like this project please give it a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for giving me this opportunity.
+I would like to thank Ankit Kushwaha for contributing to the testing of this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
